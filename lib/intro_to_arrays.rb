@@ -9,5 +9,5 @@ def array_with_two_elements
 end
 
 def first_element(array)
-  return array.first
+  return array[0]
 end
